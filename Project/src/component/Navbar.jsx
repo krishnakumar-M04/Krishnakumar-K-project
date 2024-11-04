@@ -76,7 +76,7 @@ const Navbar = () => {
           </li>
           <button
             type="submit"
-            className=" talk text-white mb-10  md:flex items-center  gap-3 w-44 py-2 pl-6 bg-gradient-to-r from-[#7257FF] to-[#6ACCFA]   rounded-full  bg-blue-500 text-xl md:hidden "
+            className=" talk text-white mb-10  md:flex items-center  gap-3 w-44 py-2 pl-6 bg-gradient-to-r from-[#7257FF] to-[#6ACCFA]   rounded-full  text-xl md:hidden "
           >
             Talk to expert
           </button>
