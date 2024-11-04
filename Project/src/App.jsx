@@ -6,7 +6,7 @@ import "./App.css";
 import Explore from "./component/Explore";
 import Navbar from "./component/Navbar";
 import Sponsor from "./component/Sponsor";
-import Post from "./component/post";
+import Post from "./component/Post";
 import Footer from "./component/Footer";
 import Section1 from "./component/Section1";
 import Section2 from "./component/Section2";
